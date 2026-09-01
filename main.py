@@ -169,7 +169,6 @@ cover: [[images/{image_path.name}]]
 ---
 
 ```
-sha256: {sha256}
 age_group: {labels["age_group"]}
 hair_colour: {labels["hair_colour"]}
 eye_colour: {labels["eye_colour"]}
